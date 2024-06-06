@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000
-http://lb1.tvar.io/hlsTK/index.m3u8?ua=YnRkMFBuWVBnWWpsbkRmUEZveWoyQ1lzS1d0dXl4eGhKNER5UEMyQmlqOD0=&ch=614
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
