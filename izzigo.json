@@ -2,8 +2,8 @@
   "keys": [
     {
       "kty": "oct",
-      "kid": "mKqQy2ILlyoNDWalHNrKVg",
-      "k": "bovVM3g1btf1ED2R77XlTg"
+      "kid": "bovVM3g1btf1ED2R77XlTg",
+      "k": "mKqQy2ILlyoNDWalHNrKVg"
     }
   ]
 }
